@@ -24,7 +24,7 @@ int main(void)
 		c++;
 	}
 
-	putcher('\n');
+	putchar('\n');
 	return (0)
 
 		;
